@@ -16,7 +16,7 @@ I added:
 3. I imported an additional library that can check if something looks like a link. With this I created a seperate function that takes in either a search query or link and decides if its a link. If its a link, it'll have yt-dl view it as so and if not, then view it as a search.
 
 ## Youtube Link Test
-[Link to Video Showcase](https://youtu.be/gtaMZy2mciU)
+[Link to Video Showcase](https://youtu.be/IhOURXFPQiw)
 
 **Disclaimer: I did this as only a passion project. I do not intend to monetize or distribute or host this bot publically anywhere. I will also not provide instructions on how to use the bot.**
 
